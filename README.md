@@ -42,7 +42,7 @@ Built using Retrieval-Augmented Generation (RAG), this application extracts rele
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/document-reader.git
+git clone https://github.com/apurva693/document-reader.git
 cd document-reader
 ```
 
