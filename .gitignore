@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Vector DB / embeddings (VERY IMPORTANT)
+faiss_index/
+qdrant_data/
+qdrant_storage/
+
+# Uploaded files (if any)
+uploads/
+
+# Environment variables
+.env
